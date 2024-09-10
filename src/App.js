@@ -2,7 +2,7 @@
 import React from "react";
 import resumeData from "./context/context";
 import renderItem from "./components/renderItem";
-import BrowserSync from "browser-sync";
+// import BrowserSync from "browser-sync";
 
 function App() {
   const items = resumeData.items;
